@@ -1,13 +1,11 @@
 ### Good day! 🤖
 
-## Welcome to my GitHub profile
+#### Welcome to my GitHub profile
 
 Mainly interrested in Automation Technology!
-- CODESYS (ST, FBD, LAD, SFC)
-- C#
-- C++
+CODESYS (ST, FBD, LAD, SFC), C#, C++, Python
 
-## About
+#### About
 
 - 📫 How to reach me: Contact@Martijn-Bakker.com
 - 🏫 I'm still a student, and studying: Electrical Engineering
