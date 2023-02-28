@@ -1,6 +1,6 @@
-### Good day! 🤖
+### Hi 🤖
 
-#### Welcome to my GitHub profile
+#### Welcome to my GitHub profile!
 
 My interests: 
 - 🧑‍💻 Programming (Structred Text [ST], C#, Python)
