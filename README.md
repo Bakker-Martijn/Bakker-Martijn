@@ -2,15 +2,16 @@
 
 #### Welcome to my GitHub profile
 
-Mainly interrested in Automation Technology!
-CODESYS (ST, FBD, LAD, SFC), C#, C++, Python
+My interests: (ST, C#, Python)
+- 🧑‍💻 Programming 
+- 🤖 Automation Technology
 
 #### About
 
 - 📫 How to reach me: Contact@Martijn-Bakker.com
-- 🏫 I'm still a student, and studying: Electrical Engineering
+- 🏫 I'm still a student, studying: Electrical Engineering
 - 🌍 Based in the: Netherlands
-
+- 🔗 Visit my website, hosted on my home-server: www.Martijn-Bakker.com (Currently not finished)
 
 <!--
 **Bakker-Martijn/Bakker-Martijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
