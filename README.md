@@ -1,6 +1,4 @@
-### Hi 🤖
-
-#### Welcome to my GitHub profile!
+### Hi, welcome to my GitHub profile!
 
 My interests: 
 - 🧑‍💻 Programming (Structred Text [ST], C#, Python)
@@ -15,21 +13,5 @@ My interests:
 
 <P align="Center">
     <br>
-    <br>
     <a href="https://www.buymeacoffee.com/MartijnBakker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </P>
-
-<!--
-**Bakker-Martijn/Bakker-Martijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
