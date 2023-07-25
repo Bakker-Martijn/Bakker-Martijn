@@ -7,5 +7,5 @@ My interests:
 #### About
 
 - 📫 How to reach me: Contact@Martijn-Bakker.com
-- 🏫 I'm still a student, studying: Electrical Engineering
+- 🏢 Systems engineer
 - 🌍 Based in the: Netherlands
