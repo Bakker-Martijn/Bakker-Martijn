@@ -8,4 +8,4 @@ My interests:
 
 - [ ] 📫 How to reach me: Contact@Martijn-Bakker.com
 - [x] 🏢 Currently working as a: Systems engineer
-- 🌍 Based in the: Netherlands
+- [-] 🌍 Based in the: Netherlands
