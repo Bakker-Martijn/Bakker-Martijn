@@ -1,7 +1,7 @@
 ### Hi, welcome to my GitHub profile!
 
 My interests: 
-- 🧑‍💻 Programming (Structred Text [ST], C#, Python)
+- 🧑‍💻 Programming (Structred Text [ST], C#, TypeScript)
 - 🤖 Automation Technology
 
 #### About
