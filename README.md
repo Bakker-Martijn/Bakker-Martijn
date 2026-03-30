@@ -1,8 +1,11 @@
-### Hi, welcome to my GitHub profile!
+### Hi 🙋‍♂️
 
-My interests: 
-- 🧑‍💻 Programming (Structred Text [ST], C#, TypeScript)
-- 🤖 Automation Technology
+welcome to my GitHub profile 
+
+---
+
+I am a developer working at [Turck](https://www.turck.com/global/en).
+I am the lead engineer of the [MARGEE extension](https://marketplace.visualstudio.com/items?itemName=TURCK-GmbH.margee) for Visual Studio Code. Which enables users to program Turck's Industrial I/O block modules.
 
 #### About
 
