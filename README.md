@@ -1,14 +1,11 @@
 ### Hi 🙋‍♂️
 
-welcome to my GitHub profile 
+My name is Martijn Bakker, welcome to my GitHub profile! 
 
----
+I am a systems engineer and developer based in the Netherlands, working at [Turck](https://www.turck.com/global/en). I am the lead engineer behind the [MARGEE extension](https://marketplace.visualstudio.com/items?itemName=TURCK-GmbH.margee) for Visual Studio Code, which enables users to program Turck Industrial I/O block modules.
 
-I am a developer working at [Turck](https://www.turck.com/global/en).
-I am the lead engineer of the [MARGEE extension](https://marketplace.visualstudio.com/items?itemName=TURCK-GmbH.margee) for Visual Studio Code. Which enables users to program Turck's Industrial I/O block modules.
+#### About me 🤓
 
-#### About
-
-- 📫 How to reach me: Contact@Martijn-Bakker.com
-- 🏢 Currently working as a: Systems engineer
+- 📫 Contact me at: [Contact@Martijn-Bakker.com](mailto:Contact@Martijn-Bakker.com)
 - 🌍 Based in the: Netherlands
+- 📚 Studied 'Electrical and Electronic Engineering'
